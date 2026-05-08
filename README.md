@@ -2,7 +2,7 @@
 Why is customer churn analysis important to businesses?
 
 
-Over the weekend, I built an ETL pipeline by extracting raw customer data from Excel, transforming and normalizing it using SQL, and loading it into Power BI for churn analysis and reporting.
+I built an ETL pipeline by extracting raw customer data from Excel, transforming and normalizing it using SQL, and loading it into Power BI for churn analysis and reporting.
 
 What the Dashboard Did
 My dashboard tracked the full customer lifecycle and identified where and why customers churn.
