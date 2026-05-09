@@ -37,4 +37,4 @@ By studying churned customers, marketers can:
 4. It enables proactive retention campaigns 
 
 # PROJECT SCREENSHOT
-![House Price Prediction App](house-price-app.png)
+![CUSTOMER CHURN ANALYSIS](customer-churn-analysis.png)
