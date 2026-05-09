@@ -36,3 +36,5 @@ By studying churned customers, marketers can:
 3. This directly boosts ROI on advertisement revenue 
 4. It enables proactive retention campaigns 
 
+# PROJECT SCREENSHOT
+![House Price Prediction App](house-price-app.png)
