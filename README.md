@@ -13,7 +13,7 @@ I built an interactive Power BI dashboard that identifies **who is leaving, wher
 ## Key Findings
 
 Contract type is the strongest signal. Month-to-month customers churn at 46.5%, versus **11.0%** for one-year and **2.7%** for two-year contracts.
-Fiber Optic customers churn at 41.1%, versus 25.7% for Cable, 19.4% for DSL, and 7.8% for customers with no internet service.
+**Fiber Optic customers churn at 41.1%, versus 25.7% for Cable, 19.4% for DSL, and 7.8% for customers with no internet service.
 Geography varies widely.he highest-churn states reach 57.2% (top 5 shown on the dashboard), well above the 27.0% overall rate.
 Age: churn rises with age, reaching **31.0%** in the over-50 group, which is also the largest age segment.
 Payment method: customers paying by mailed check and bank withdrawal churn at 37.8% and 34.4%.
