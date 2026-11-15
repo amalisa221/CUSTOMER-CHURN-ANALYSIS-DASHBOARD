@@ -7,10 +7,10 @@ My dashboard tracked the full customer lifecycle and identified where and why cu
 
 ## Data and Process
 
-1. **Source:** **public kaggle dataset 
-2. **Extract and clean (SQL Server):** audited each field for missing and inconsistent values, standardized categories, handled nulls, created derived fields such as tenure and age groups, and loaded the cleaned data for reporting.
-3. **Model and measure: Power BI
-4. **Visualize:** designed a two-page dashboard organized by demographic, account, geographic, and service themes, with slicers for interactive filtering.
+1. Source: Raw telecommunication kaggle dataset 
+2. Extract and clean (SQL Server): audited each field for missing and inconsistent values, standardized categories, handled nulls, created derived fields such as tenure and age groups, and loaded the cleaned data for reporting.
+3. Model and measure: Power BI
+4. Visualize:designed a two-page dashboard organized by demographic, account, geographic, and service themes, with slicers for interactive filtering.
 
 ## Recommendations
 
