@@ -5,18 +5,24 @@ I built an ETL pipeline by extracting raw customer data from Excel, transforming
 
 My dashboard tracked the full customer lifecycle and identified where and why customers churn.
 
-This reminded me of a literature review I conducted on the impacts of machine learning on data-driven marketing.
+## Data and Process
 
-My research pointed out that marketing messages are deemed effective only if they reach the right audience.
-The top priority for most, if not all businesses, is churn management, and churn prediction forms an integral part of these programs.
+1. **Source:** **public kaggle dataset 
+2. **Extract and clean (SQL Server):** audited each field for missing and inconsistent values, standardized categories, handled nulls, created derived fields such as tenure and age groups, and loaded the cleaned data for reporting.
+3. **Model and measure: Power BI
+4. **Visualize:** designed a two-page dashboard organized by demographic, account, geographic, and service themes, with slicers for interactive filtering.
 
-One may ask, “What is churn prediction?”. It simply means predicting which customers will stop using a business’s products or services. 
+## Recommendations
 
-Ascarza (2018) suggested that businesses should target customers whose decisions to churn would be dissuaded or decreased if the company intervened.
+1. **Move month-to-month customers to longer contracts** through discounts or bundles, since this group churns at over four times the rate of one-year customers.
+2. **Investigate the Fiber Optic experience.** It has the highest churn of any internet type, so check pricing, service quality, and support issues.
+3. **Target high-churn states and the over-50 segment** with retention outreach.
+4. **Counter competitor offers** with proactive retention messaging and offers for at-risk customers. **[Add any further recommendations.]**
 
-This brings me to the question I posed myself at the start of building this dashboard. Why Customer Churn Analysis?
+## Tools
 
-Acquiring a new customer can cost more compared to keeping an existing one.
+SQL Server (SSMS), Power BI, DAX, Excel
+
 
 Churn analysis helps businesses:
 1. Improve lifetime customer value (CLV)
