@@ -12,13 +12,18 @@ I built an interactive Power BI dashboard that identifies **who is leaving, wher
 
 ## Key Findings
 
-1. **Contract type is the strongest signal** Month-to-month customers churn at 46.5%, versus **11.0%** for one-year and **2.7%** for two-year contracts.
-Fiber Optic customers churn at 41.1%, versus 25.7% for Cable, 19.4% for DSL, and 7.8% for customers with no internet service.
-Geography varies widely.he highest-churn states reach 57.2% (top 5 shown on the dashboard), well above the 27.0% overall rate.
-Age: churn rises with age, reaching **31.0%** in the over-50 group, which is also the largest age segment.
-Payment method: customers paying by mailed check and bank withdrawal churn at 37.8% and 34.4%.
-Why customers leave: Competitor-related reasons are the largest category (761 customers), ahead of Attitude (301), Dissatisfaction (300), Price (196), and Other (174).
-Tenure shows a relatively flat churn rate (about 26% to 28% across groups), so tenure alone doesn't explain churn in this dataset.
+1. **Contract type is the strongest signal:** Month-to-month customers churn at 46.5%, versus **11.0%** for one-year and **2.7%** for two-year contracts.
+
+2. **Fiber Optic customers churn at 41.1%, versus 25.7% for Cable, 19.4% for DSL, and 7.8% for customers with no internet service.**
+
+3. **Geography varies widely: highest-churn states reach 57.2% (top 5 shown on the dashboard), well above the 27.0% overall rate.**
+
+4. **Age: churn rises with age, reaching **31.0%** in the over-50 group, which is also the largest age segment.**
+
+5. **Payment method: customers paying by mailed check and bank withdrawal churn at 37.8% and 34.4%.**
+   
+6. **Why customers leave: Competitor-related reasons are the largest category (761 customers), ahead of Attitude (301), Dissatisfaction (300), Price (196), and Other (174).**
+
 
 ## Recommendations
 
